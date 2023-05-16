@@ -62,7 +62,7 @@ validate 同时支持两种规则配置方式，对应了两种规则的收集�
 ```bash
 composer require guirong/php-validate
 # or
-# composer require inhere/php-validate ^3.0
+# composer require guirong/php-validate ^3.0
 ```
 
 ### 注意
